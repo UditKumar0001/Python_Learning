@@ -8,4 +8,4 @@ elif num2 > num1:
     print(f"The greatest number amongst the two numbers is: {num2}")
 
 else:
-    print(f"The greatest number amongst the two numbers is: {num1}")
+    print(f"Both the numbers are same")
