@@ -8,4 +8,4 @@ def pallindrome(st):
     else:
         print("Not a Pallindrome")
 
-pallindrome("malayalam")
+pallindrome("malayalam") 
