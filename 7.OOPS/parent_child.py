@@ -8,6 +8,8 @@ class Animal:
 class Human(Animal):
     pass
 
+animal = Animal("Cheetah")
 person = Human("Udit")
 
 person.show()
+animal.show()
